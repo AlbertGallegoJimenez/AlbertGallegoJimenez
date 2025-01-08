@@ -36,41 +36,41 @@
 <h4 align="left">Machine Learning</h4>
 
 
-**[Kaggle Projects Repository](https://github.com/AlbertGallegoJimenez/Kaggle-Projects)**  
-This repository showcases my Kaggle projects in Data Science and Machine Learning fields.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Kaggle Projects Repository](https://github.com/AlbertGallegoJimenez/Kaggle-Projects)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository showcases my Kaggle projects in Data Science and Machine Learning fields.
 
-[![Check out my project](https://img.shields.io/badge/Kaggle-Kaggle_projects-blue?style=for-the-badge&logo=kaggle)](https://github.com/AlbertGallegoJimenez/Kaggle-Projects)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Check out my project](https://img.shields.io/badge/Kaggle-Kaggle_projects-blue?style=for-the-badge&logo=kaggle)](https://github.com/AlbertGallegoJimenez/Kaggle-Projects)
 
 
-**[TsunamiClassifier ](https://github.com/AlbertGallegoJimenez/TsunamiClassifier)**  
-A neural network model for binary classification of seismic events, distinguishing earthquake events that generate tsunamis from those that do not.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[TsunamiClassifier ](https://github.com/AlbertGallegoJimenez/TsunamiClassifier)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A neural network model for binary classification of seismic events, distinguishing earthquake events that generate tsunamis from those that do not.
 
-[![Check out my project](https://img.shields.io/badge/GitHub-Tsunami_Classifier-blue?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/TsunamiClassifier)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Check out my project](https://img.shields.io/badge/GitHub-Tsunami_Classifier-blue?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/TsunamiClassifier)
 
 
 <h4 align="left">Geospatial software development</h4>
 
-**[SEATool (Shoreline Evolution Analysis Toolbox)](https://github.com/AlbertGallegoJimenez/SEATool)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[SEATool (Shoreline Evolution Analysis Toolbox)](https://github.com/AlbertGallegoJimenez/SEATool)**
 
-[![Check out my project](https://img.shields.io/badge/GitHub-SEATool-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/SEATool)
-Python Toolbox for ArcGIS Pro to perform automated shoreline evolution analysis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Check out my project](https://img.shields.io/badge/GitHub-SEATool-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/SEATool)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python Toolbox for ArcGIS Pro to perform automated shoreline evolution analysis.
 
-**[Flag-SDWs-GUI](https://github.com/IHCantabria/Flag-SDWs-GUI)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Flag-SDWs-GUI](https://github.com/IHCantabria/Flag-SDWs-GUI)**
 
-[![Check out my project](https://img.shields.io/badge/GitHub-Flag_SDWs_GUI-green?style=for-the-badge&logo=github)](https://github.com/IHCantabria/Flag-SDWs-GUI)
-Python GUI software designed to identify instances where a Satellite-Derived Waterline (SDW) is unable to accurately detect the land-water interface. It also contains the creation of web GIS maps.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Check out my project](https://img.shields.io/badge/GitHub-Flag_SDWs_GUI-green?style=for-the-badge&logo=github)](https://github.com/IHCantabria/Flag-SDWs-GUI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python GUI software designed to identify instances where a Satellite-Derived Waterline (SDW) is unable to accurately detect the land-water interface. It also contains the creation of web GIS maps.
 
-**[CMEMS Downloader](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[CMEMS Downloader](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)**
 
-[![Check out my project](https://img.shields.io/badge/GitHub-cmems_downloader-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)
-ArcGIS Pro Python Toolbox that enables automatic retrieval of marine data from the Copernicus Marine Service using a simple GIS file as input.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Check out my project](https://img.shields.io/badge/GitHub-cmems_downloader-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ArcGIS Pro Python Toolbox that enables automatic retrieval of marine data from the Copernicus Marine Service using a simple GIS file as input.
 
 <h4 align="left">Web scraping</h4>
 
-**[Bonpreu-scraper](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Bonpreu-scraper](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)**
 
-[![Check out my project](https://img.shields.io/badge/GitHub-bonpreu_scraper-yellow?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)
-Academic project that aimed to scrape data from a supermarket website.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Check out my project](https://img.shields.io/badge/GitHub-bonpreu_scraper-yellow?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Academic project that aimed to scrape data from a supermarket website.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
