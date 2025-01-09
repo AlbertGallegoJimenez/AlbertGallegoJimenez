@@ -55,22 +55,26 @@ A neural network model for binary classification of seismic events, distinguishi
 [![Check out my project](https://img.shields.io/badge/GitHub-SEATool-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/SEATool)
 Python Toolbox for ArcGIS Pro to perform automated shoreline evolution analysis.
 
+
 **[Flag-SDWs-GUI](https://github.com/IHCantabria/Flag-SDWs-GUI)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-Flag_SDWs_GUI-green?style=for-the-badge&logo=github)](https://github.com/IHCantabria/Flag-SDWs-GUI)
 Python GUI software designed to identify instances where a Satellite-Derived Waterline (SDW) is unable to accurately detect the land-water interface. It also contains the creation of web GIS maps.
+
 
 **[CMEMS Downloader](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-cmems_downloader-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)
 ArcGIS Pro Python Toolbox that enables automatic retrieval of marine data from the Copernicus Marine Service using a simple GIS file as input.
 
+
 <h4 align="left" style="text-indent:30px;">Web scraping</h4>
 
 **[Bonpreu-scraper](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-bonpreu_scraper-yellow?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)
-Academic project that aimed to scrape data from a supermarket website.
+Academic project that aimed to scrape product pricing data from a supermarket website.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
