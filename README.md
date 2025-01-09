@@ -36,16 +36,18 @@
 <h4 align="left" style="text-indent:30px;">Machine Learning</h4>
 
 
-**[Kaggle Projects Repository](https://github.com/AlbertGallegoJimenez/Kaggle-Projects)**  
-This repository showcases my Kaggle projects in Data Science and Machine Learning fields.
+**[Kaggle Projects Repository](https://github.com/AlbertGallegoJimenez/Kaggle-Projects)**
 
 [![Check out my project](https://img.shields.io/badge/Kaggle-Kaggle_projects-blue?style=for-the-badge&logo=kaggle)](https://github.com/AlbertGallegoJimenez/Kaggle-Projects)
 
+This repository showcases my Kaggle projects in Data Science and Machine Learning fields.
 
-**[TsunamiClassifier ](https://github.com/AlbertGallegoJimenez/TsunamiClassifier)**  
-A neural network model for binary classification of seismic events, distinguishing earthquake events that generate tsunamis from those that do not.
+
+**[TsunamiClassifier ](https://github.com/AlbertGallegoJimenez/TsunamiClassifier)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-Tsunami_Classifier-blue?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/TsunamiClassifier)
+
+A neural network model for binary classification of seismic events, distinguishing earthquake events that generate tsunamis from those that do not.
 
 
 <h4 align="left" style="text-indent:30px;">Geospatial software development</h4>
@@ -53,18 +55,21 @@ A neural network model for binary classification of seismic events, distinguishi
 **[SEATool (Shoreline Evolution Analysis Toolbox)](https://github.com/AlbertGallegoJimenez/SEATool)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-SEATool-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/SEATool)
+
 Python Toolbox for ArcGIS Pro to perform automated shoreline evolution analysis.
 
 
 **[Flag-SDWs-GUI](https://github.com/IHCantabria/Flag-SDWs-GUI)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-Flag_SDWs_GUI-green?style=for-the-badge&logo=github)](https://github.com/IHCantabria/Flag-SDWs-GUI)
+
 Python GUI software designed to identify instances where a Satellite-Derived Waterline (SDW) is unable to accurately detect the land-water interface. It also contains the creation of web GIS maps.
 
 
 **[CMEMS Downloader](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-cmems_downloader-green?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/cmems-downloader-toolbox)
+
 ArcGIS Pro Python Toolbox that enables automatic retrieval of marine data from the Copernicus Marine Service using a simple GIS file as input.
 
 
@@ -73,6 +78,7 @@ ArcGIS Pro Python Toolbox that enables automatic retrieval of marine data from t
 **[Bonpreu-scraper](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)**
 
 [![Check out my project](https://img.shields.io/badge/GitHub-bonpreu_scraper-yellow?style=for-the-badge&logo=github)](https://github.com/AlbertGallegoJimenez/Bonpreu-scraper)
+
 Academic project that aimed to scrape product pricing data from a supermarket website.
 
 
